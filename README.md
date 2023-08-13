@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @markalirjes
 - 👀 I’m interested in bussiness, tech , philosofy , art , sport
-- 🌱 I’m currently learning C# , .net core
-- 💞️ I’m looking to collaborate on iot , backend
+- 🌱 I’m currently learning javascript , typescript
+- 💞️ I’m looking to collaborate on iot , frontend
 - 📫 How to reach me : aj262103@gmail.com
 
 <!---
