@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @markalirjes
 - 👀 I’m interested in eecs , nano , ai , startup
 - 🌱 I’m currently learning web development basic , c , ada , c++ , python
-- 💞️ I’m looking to collaborate on (no matter)
+- 💞️ I’m looking to collaborate on ai , nano , military
 - 📫 How to reach me : aj262103@gmail.com
 
 <!---
