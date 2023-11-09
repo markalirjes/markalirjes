@@ -1,0 +1,14 @@
+supply,Diversion rate,nano rate,benefit rate,cost rate,benefit
+20,2,1,3,2,yes
+30,3,1,3,1,yes
+40,4,2,3,1,yes
+20,2,1,3,2,yes
+30,3,1,3,1,yes
+30,4,2,3,1,yes
+35,3,1,3,1,yes
+35,3,2,3,1,yes
+40,4,2,3,1,yes
+35,4,2,3,1,yes
+20,2,1,3,2,yes
+20,2,1,2,3,no
+25,3,2,2,3,no
