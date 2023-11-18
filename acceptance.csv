@@ -1,0 +1,20 @@
+nationality,age,accepted,dgree,gpa,itels score,paper/innovation,status
+iran,22,20,engineer,3.2,7,yes,a
+india,22,50,medicine,3.3,7,no,r
+iran,22,100,engineer,3.4,6.5,yes,a
+india,22,100,medicine,3.6,7.5,no,a
+india,22,100,low,3.6,8,yes,a
+iran,21,50,low,3.8,8,no,a
+china,22,20,low,3.9,8,no,a
+fanland,22,100,medicine,3.7,7,yes,r
+fanland,22,200,engineer,3.6,7,yes,r
+china,22,200,engineer,3.6,7,no,r
+iran,21,200,engineer,3.5,7.5,yes,a
+india,21,200,engineer,3.6,6.5,no,r
+india,22,300,engineer,3.5,7.5,yes,r
+iran,22,100,engineer,3.6,6.5,no,r
+china,22,300,low,3.5,7,yes,r
+french,23,300,medicine,3.7,8,yes,a
+french,23,200,medicine,3.8,8,yes,a
+china,23,300,low,3.5,6,no,a
+iran,23,300,low,3.5,7,no,a
