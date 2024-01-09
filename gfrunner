@@ -1,0 +1,14 @@
+import os
+import telebot
+
+BOT_TOKEN = os.environ.get('BOT_TOKEN') # توکن ربات را از متغیر محیطی می‌خوانیم
+bot = telebot.TeleBot(BOT_TOKEN) # یک نمونه از کلاس TeleBot ایجاد می‌کنیم
+
+@bot.message_handler(func=lambda msg: msg.text == "Pregnant") # یک تابع را برای پیام‌هایی که متن آن‌ها سلام است تعریف می‌کنیم
+def block_hello(message):
+    chat_id = message.chat.id # شناسه گفتگو را می‌گیریم
+    user_id = message.from_user.id # شناسه کاربر را می‌گیریم
+    bot.edit_permissions(chat_id, user_id, send_messages=False) # مجوز ارسال پیام را برای کاربر False می‌کنیم
+    bot.reply_to(message, "شما بلاک شدید!") # به کاربر پاسخ می‌دهیم
+
+bot.polling() # ربات را شروع به کار می‌کنیم
